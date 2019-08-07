@@ -6,3 +6,5 @@ def sub(a,b):
 
 def bul(a,b):
 	return a*b
+def div(a,b):
+	return a/b
